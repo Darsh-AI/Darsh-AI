@@ -1,5 +1,5 @@
-### Hi there it's Darshan here.👋
-## Welcome to my GitHub profile.
+## Hi there it's Darshan here.👋
+### Welcome to my GitHub profile.
 
 <!--
 **Darsh-AI/Darsh-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
