@@ -1,11 +1,5 @@
 ## Hi there it's Darshan here.👋
 ### Welcome to my GitHub profile.
 
+I am Darshan. 2nd year Computer Science and Engineering student at Vellore Institute of Technology, Channai, India. I really enjoy learning new programming languages and development tools. Currently exploring Data Science, Machine learning, Deep Learning , neural networks , AI and many more exciting fields.
 
-Here are some ideas to get you started:
-
--🔭 I’m currently 2nd year BTech student at VIT Chennai, India.\
--🌱 I’m currently learning Artificial Neural Networks and Machine Learning.\
-💬 Ask me about science, technology, AI and space science.\
-📫 How to reach me: darshan.odedara@gmail.com\
-⚡ Fun fact: The whole internet weighs about a strawberry!\
