@@ -1,6 +1,6 @@
 ### Hi there 👋, it's Darshan here!
 ### Tech explorer
-![Tech explorer](https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866)
+![Always working](https://github.com/user-attachments/assets/858675fd-359b-4a00-85ad-b30cbc061617)
 
 # 💫 About Me:
 I am Darshan, 2nd year Computer Science & Engineering student at Vellore Institute of Technology, Channai, India. I really enjoy learning new programming languages and development tools. Currently exploring Data Science, Machine learning, Deep Learning , neural networks , AI and many more exciting fields.<br>🔭 I’m currently working on a trained ML model to classify skin diseases using Convolutional Neural Network.
